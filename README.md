@@ -1,8 +1,10 @@
 ## Imersão DEV Alura com Google Gemini: Descobrindo o Brasil! 🇧🇷
 
 ### Sobre o Projeto
-Este projeto é o resultado da minha imersão na Alura, utilizando o Google Gemini como ferramenta auxiliar. 
-Criei um site simples e interativo que te convida a explorar um pouco do nosso belo país. 
+
+Este projeto é o resultado da minha imersão na Alura, com o auxílio do Google Gemini. 
+O que era pra ser uma galeria com minhas viagens, se tornou um guia para te ajudar a conhecer um pouco do nosso país.
+Criei um site simples e interativo, que te convida a explorar um pouco sobre cada cidade do Brasil, e ajudar na escolha ou programação da sua viagem.
 Com ele, você pode pesquisar por cidades brasileiras e descobrir:
 
 * **História:** Mergulhe no passado e conheça a origem da cidade.
