@@ -62,7 +62,7 @@ function pesquisar() {
         }
     }
     //anot 18. Se o resultado não tiver nada (vazio), então faça essa ação ou if(resultados == ""):
-    if (!resultado) {
+    if (!resultados) {
         resultados = "<p>Nada foi encontrado<p/>"
     }
     //anot 19. Atribui os resultados gerados à seção HTML (Escreve algo na tela)
